@@ -9,5 +9,7 @@ else
   source 'https://rubygems.org'
 end
 
+gem 'public_suffix', '1'
+
 # Specify your gem's dependencies in omniauth-dice.gemspec
 gemspec
